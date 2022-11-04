@@ -1,0 +1,22 @@
+{
+  "name": "hhz-show-my-name",
+  "version": "1.0.0",
+  "description": "I wanna show my everwhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsstudent2021/hhz-show-my-name.git"
+  },
+  "keywords": [
+    "hhz"
+  ],
+  "author": "hein htet zan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsstudent2021/hhz-show-my-name/issues"
+  },
+  "homepage": "https://github.com/mmsstudent2021/hhz-show-my-name#readme"
+}
